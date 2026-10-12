@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Nejma Boubakri - QA Automation & DevOps Engineer" width="100%">
+  <img src="assets/1624694228104.jpeg" alt="Nejma Boubakri - QA Automation & DevOps Engineer" width="100%">
 </p>
 
 # Hi, I'm Nejma 👋
